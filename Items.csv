@@ -1,0 +1,18 @@
+uID,Name,Price,Category,Stock,PromotionDetails
+1000,Red pencil,12,Writing tools,1,-50%
+1001,Blue pencil,12,Writing tools,1,Black Friday!
+1002,Huawei P9,3400,Smartphone,1,
+1003,Galaxy S9,9999,Smartphone,1,
+1004,Galaxy J3,1500,Smartphone,1,
+1005,Galaxy J7,1600,Smartphone,1,
+1006,Bosch CBG635BS3,562.49,Oven,1,Black Friday!
+1007,Siemens CB674GBS3,766,Oven,1,
+1008,AEG KSK782220M,693.72,Oven,1,
+1009,BOSCH COA565GB0,826.42,Oven,1,Black Friday!
+1010,Carrera Go,70.99,Kids Toys,1,
+1011,Gravitrax,15.99,Kids Toys,1,
+1012,Lego Batman,21.22,Kids Toys,1,-10% with gift Card
+1013,Playing Cards,8.99,Kids Toys,1,
+1014,Yellow pencil,12,Writing tools,1,
+1015,Green pencil,12.5,Writing tools,1,
+1016,OnePlus,659.9,Smartphone,1,Free headphones included
